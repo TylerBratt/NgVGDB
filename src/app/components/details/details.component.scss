@@ -24,6 +24,9 @@
       fill: #fff;
       font-weight: 700;
       font-size: 24px;
+      text-shadow: 5px 5px 5px black;
+
+
     }
   }
 
@@ -37,6 +40,8 @@
       color: #fff;
       position: relative;
       bottom: 60px;
+      text-shadow: 5px 5px 5px black;
+
     }
   }
 }
@@ -56,6 +61,7 @@
     text-align: center;
     position: relative;
     top: -200px;
+
   }
 
   &-header {
@@ -65,16 +71,19 @@
       font-weight: 700;
       line-height: 70px;
       white-space: nowrap;
+      text-shadow: 5px 5px 5px black;
     }
 
     &-release-date {
       color: #fff;
       font-weight: 700;
+      text-shadow: 5px 5px 5px black;
     }
 
     &-genres {
       color: #fff;
       font-weight: 700;
+      text-shadow: 5px 5px 5px black;
     }
   }
 }
